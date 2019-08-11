@@ -21,9 +21,6 @@ class Dumper(object):
         '\u000b'                :   '[READ_MORE]',
         '\u0000'                :   '[WAIT_A_SECOND]',
         '\u0006\u0001'          :   '[つよし]',
-        '\b'                    :   '[BOLD]',
-        '\b\u0001'              :   '[BOLD_DECREASE]',
-        '\u0003\u0001'          :   '[FONT_DECREASE]',
     }
 
     def __init__(self, data, filename):
@@ -57,7 +54,7 @@ class Dumper(object):
                         self.binary.skip(1)
                         for target, control_code in self.control_codes.items():
                             output_text = output_text.replace(target, control_code)
-                        self.strings.append(output_text)
+                        self.strings.append({output_text:output_text})
                         break
                 else:
                     if int.from_bytes(test, 'big') in range(0x8140,0xEAA2):
