@@ -1,137 +1,546 @@
-[
-    "\u0001\u000f-GAME DIRECTOR-\u0007",
-    "TATSUMITSU WATANABE[WAIT_A_SECOND] ",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-PLANNING DIRECTOR-\u0007",
-    "TAKUYA AOYAMA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-GAME DESIGNER-\u0007",
-    "TETSUYA KODAMA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-PROGRAM DIRECTOR-",
-    "SHINJI SHIBASAKI",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-BATTLE PROGRAM-\u0007[WAIT_A_SECOND]HIROSHI ISHIMARU",
-    "HIROSHI ISHIMARU",
-    "YUKIO OHDE",
-    "YASUAKI NARUSE",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-STORY PROGRAM-\u0007",
-    "MASAYUKI SHINOHARA",
-    "YASUSHI HIRANUMA",
-    "TAKASHI IRIZAWA[WAIT_A_SECOND] ",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-DESIGN DIRECTOR-\u0007",
-    "HIROSHI HAYASHI[WAIT_A_SECOND] ",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-GRAPHIC SUPERVISORS-\u0007",
-    "TAKUYA AOYAMA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-3D CHARACTER DESIGN-\u0007",
-    "HIDEMITSU HASHIMOTO[WAIT_A_SECOND]YUKO SEGAWA[WAIT_A_SECOND] ",
-    "YUKO SEGAWA[WAIT_A_SECOND] ",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-3D GRAPHIC DESIGN-\u0007",
-    "KAYO FUJIMOTO",
-    "HITOSHI TAKIYAMA",
-    "SAEKO MATSUURA",
-    "MINORI NISHIOKA[WAIT_A_SECOND]KAZUYOSHI TAKEHARA",
-    "KAZUYOSHI TAKEHARA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-CHARACTER MOTION DESIGN-\u0007",
-    "NODOKA MORIYA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-2D GRAPHIC DESIGN-\u0007",
-    "CHIHO KOGAWA",
-    "SATOMI KIKUCHI",
-    "SAORI TSUTSUI ",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-SOUND DIRECTOR-\u0007[WAIT_A_SECOND]SHOHEI BANDO",
-    "SHOHEI BANDO",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-MUSIC / SOUND EFFECT-\u0007",
-    "HIRONOBU YAHATA(oo39.com)",
-    "SHINYA OHTOUGE(oo39.com)",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-PROMOTION-\u0007",
-    "TAKASHI IRISAWA[WAIT_A_SECOND] ",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-MANUAL EDITING-\u0007[WAIT_A_SECOND]HARUKI MITANI",
-    "HARUKI MITANI",
-    "JYUNKO FURUTA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-SPECIAL THANKS-\u0007[WAIT_A_SECOND]TAKAHITO NAKAGAWA",
-    "TAKAHITO NAKAGAWA",
-    "TETSUYA KOMATSU[WAIT_A_SECOND]TUYOSHI NAKAGAWA",
-    "TUYOSHI NAKAGAWA",
-    "SHOUTA TAKAHASHI",
-    "MASATO TOBISAWA[WAIT_A_SECOND]KEITA HOSHI[WAIT_A_SECOND]HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI",
-    "KEITA HOSHI[WAIT_A_SECOND]HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI",
-    "HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI",
-    "HIDEKI SAHASHI",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-PRODUCT MANAGER-\u0007",
-    "SHUICHIRO NISHIYA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-PRODUCER-\u0007",
-    "KENTARO MURAYAMA",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-SUPERVISORS-\u0007",
-    "KENJI KIKUCHI",
-    "ATSUSHI IKEDA",
-    "HIROYUKI MIKAMI[WAIT_A_SECOND] ",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-SENIOR PRODUCER-\u0007",
-    "KUNJI KATSUKI",
-    " ",
-    " ",
-    " ",
-    "\u0001\u000f-EXECUTIVE PRODUCER-\u0007[WAIT_A_SECOND]MICHIHIRO ISHIZUKA",
-    "MICHIHIRO ISHIZUKA",
-    " ",
-    " ",
-    " ",
-    " ",
-    " ",
-    " "
-]
+{
+    "sourceLang": "jp",
+    "targetLang": "pt-br",
+    "texts": [
+        {
+            "source": "\u0001\u000f-GAME DIRECTOR-\u0007",
+            "target": "\u0001\u000f-GAME DIRECTOR-\u0007"
+        },
+        {
+            "source": "TATSUMITSU WATANABE[WAIT_A_SECOND] ",
+            "target": "TATSUMITSU WATANABE[WAIT_A_SECOND] "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-PLANNING DIRECTOR-\u0007",
+            "target": "\u0001\u000f-PLANNING DIRECTOR-\u0007"
+        },
+        {
+            "source": "TAKUYA AOYAMA",
+            "target": "TAKUYA AOYAMA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-GAME DESIGNER-\u0007",
+            "target": "\u0001\u000f-GAME DESIGNER-\u0007"
+        },
+        {
+            "source": "TETSUYA KODAMA",
+            "target": "TETSUYA KODAMA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-PROGRAM DIRECTOR-",
+            "target": "\u0001\u000f-PROGRAM DIRECTOR-"
+        },
+        {
+            "source": "SHINJI SHIBASAKI",
+            "target": "SHINJI SHIBASAKI"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-BATTLE PROGRAM-\u0007[WAIT_A_SECOND]HIROSHI ISHIMARU",
+            "target": "\u0001\u000f-BATTLE PROGRAM-\u0007[WAIT_A_SECOND]HIROSHI ISHIMARU"
+        },
+        {
+            "source": "HIROSHI ISHIMARU",
+            "target": "HIROSHI ISHIMARU"
+        },
+        {
+            "source": "YUKIO OHDE",
+            "target": "YUKIO OHDE"
+        },
+        {
+            "source": "YASUAKI NARUSE",
+            "target": "YASUAKI NARUSE"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-STORY PROGRAM-\u0007",
+            "target": "\u0001\u000f-STORY PROGRAM-\u0007"
+        },
+        {
+            "source": "MASAYUKI SHINOHARA",
+            "target": "MASAYUKI SHINOHARA"
+        },
+        {
+            "source": "YASUSHI HIRANUMA",
+            "target": "YASUSHI HIRANUMA"
+        },
+        {
+            "source": "TAKASHI IRIZAWA[WAIT_A_SECOND] ",
+            "target": "TAKASHI IRIZAWA[WAIT_A_SECOND] "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-DESIGN DIRECTOR-\u0007",
+            "target": "\u0001\u000f-DESIGN DIRECTOR-\u0007"
+        },
+        {
+            "source": "HIROSHI HAYASHI[WAIT_A_SECOND] ",
+            "target": "HIROSHI HAYASHI[WAIT_A_SECOND] "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-GRAPHIC SUPERVISORS-\u0007",
+            "target": "\u0001\u000f-GRAPHIC SUPERVISORS-\u0007"
+        },
+        {
+            "source": "TAKUYA AOYAMA",
+            "target": "TAKUYA AOYAMA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-3D CHARACTER DESIGN-\u0007",
+            "target": "\u0001\u000f-3D CHARACTER DESIGN-\u0007"
+        },
+        {
+            "source": "HIDEMITSU HASHIMOTO[WAIT_A_SECOND]YUKO SEGAWA[WAIT_A_SECOND] ",
+            "target": "HIDEMITSU HASHIMOTO[WAIT_A_SECOND]YUKO SEGAWA[WAIT_A_SECOND] "
+        },
+        {
+            "source": "YUKO SEGAWA[WAIT_A_SECOND] ",
+            "target": "YUKO SEGAWA[WAIT_A_SECOND] "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-3D GRAPHIC DESIGN-\u0007",
+            "target": "\u0001\u000f-3D GRAPHIC DESIGN-\u0007"
+        },
+        {
+            "source": "KAYO FUJIMOTO",
+            "target": "KAYO FUJIMOTO"
+        },
+        {
+            "source": "HITOSHI TAKIYAMA",
+            "target": "HITOSHI TAKIYAMA"
+        },
+        {
+            "source": "SAEKO MATSUURA",
+            "target": "SAEKO MATSUURA"
+        },
+        {
+            "source": "MINORI NISHIOKA[WAIT_A_SECOND]KAZUYOSHI TAKEHARA",
+            "target": "MINORI NISHIOKA[WAIT_A_SECOND]KAZUYOSHI TAKEHARA"
+        },
+        {
+            "source": "KAZUYOSHI TAKEHARA",
+            "target": "KAZUYOSHI TAKEHARA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-CHARACTER MOTION DESIGN-\u0007",
+            "target": "\u0001\u000f-CHARACTER MOTION DESIGN-\u0007"
+        },
+        {
+            "source": "NODOKA MORIYA",
+            "target": "NODOKA MORIYA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-2D GRAPHIC DESIGN-\u0007",
+            "target": "\u0001\u000f-2D GRAPHIC DESIGN-\u0007"
+        },
+        {
+            "source": "CHIHO KOGAWA",
+            "target": "CHIHO KOGAWA"
+        },
+        {
+            "source": "SATOMI KIKUCHI",
+            "target": "SATOMI KIKUCHI"
+        },
+        {
+            "source": "SAORI TSUTSUI ",
+            "target": "SAORI TSUTSUI "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-SOUND DIRECTOR-\u0007[WAIT_A_SECOND]SHOHEI BANDO",
+            "target": "\u0001\u000f-SOUND DIRECTOR-\u0007[WAIT_A_SECOND]SHOHEI BANDO"
+        },
+        {
+            "source": "SHOHEI BANDO",
+            "target": "SHOHEI BANDO"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-MUSIC / SOUND EFFECT-\u0007",
+            "target": "\u0001\u000f-MUSIC / SOUND EFFECT-\u0007"
+        },
+        {
+            "source": "HIRONOBU YAHATA(oo39.com)",
+            "target": "HIRONOBU YAHATA(oo39.com)"
+        },
+        {
+            "source": "SHINYA OHTOUGE(oo39.com)",
+            "target": "SHINYA OHTOUGE(oo39.com)"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-PROMOTION-\u0007",
+            "target": "\u0001\u000f-PROMOTION-\u0007"
+        },
+        {
+            "source": "TAKASHI IRISAWA[WAIT_A_SECOND] ",
+            "target": "TAKASHI IRISAWA[WAIT_A_SECOND] "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-MANUAL EDITING-\u0007[WAIT_A_SECOND]HARUKI MITANI",
+            "target": "\u0001\u000f-MANUAL EDITING-\u0007[WAIT_A_SECOND]HARUKI MITANI"
+        },
+        {
+            "source": "HARUKI MITANI",
+            "target": "HARUKI MITANI"
+        },
+        {
+            "source": "JYUNKO FURUTA",
+            "target": "JYUNKO FURUTA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-SPECIAL THANKS-\u0007[WAIT_A_SECOND]TAKAHITO NAKAGAWA",
+            "target": "\u0001\u000f-SPECIAL THANKS-\u0007[WAIT_A_SECOND]TAKAHITO NAKAGAWA"
+        },
+        {
+            "source": "TAKAHITO NAKAGAWA",
+            "target": "TAKAHITO NAKAGAWA"
+        },
+        {
+            "source": "TETSUYA KOMATSU[WAIT_A_SECOND]TUYOSHI NAKAGAWA",
+            "target": "TETSUYA KOMATSU[WAIT_A_SECOND]TUYOSHI NAKAGAWA"
+        },
+        {
+            "source": "TUYOSHI NAKAGAWA",
+            "target": "TUYOSHI NAKAGAWA"
+        },
+        {
+            "source": "SHOUTA TAKAHASHI",
+            "target": "SHOUTA TAKAHASHI"
+        },
+        {
+            "source": "MASATO TOBISAWA[WAIT_A_SECOND]KEITA HOSHI[WAIT_A_SECOND]HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI",
+            "target": "MASATO TOBISAWA[WAIT_A_SECOND]KEITA HOSHI[WAIT_A_SECOND]HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI"
+        },
+        {
+            "source": "KEITA HOSHI[WAIT_A_SECOND]HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI",
+            "target": "KEITA HOSHI[WAIT_A_SECOND]HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI"
+        },
+        {
+            "source": "HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI",
+            "target": "HIROUMI OHNISHI[WAIT_A_SECOND]HIDEKI SAHASHI"
+        },
+        {
+            "source": "HIDEKI SAHASHI",
+            "target": "HIDEKI SAHASHI"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-PRODUCT MANAGER-\u0007",
+            "target": "\u0001\u000f-PRODUCT MANAGER-\u0007"
+        },
+        {
+            "source": "SHUICHIRO NISHIYA",
+            "target": "SHUICHIRO NISHIYA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-PRODUCER-\u0007",
+            "target": "\u0001\u000f-PRODUCER-\u0007"
+        },
+        {
+            "source": "KENTARO MURAYAMA",
+            "target": "KENTARO MURAYAMA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-SUPERVISORS-\u0007",
+            "target": "\u0001\u000f-SUPERVISORS-\u0007"
+        },
+        {
+            "source": "KENJI KIKUCHI",
+            "target": "KENJI KIKUCHI"
+        },
+        {
+            "source": "ATSUSHI IKEDA",
+            "target": "ATSUSHI IKEDA"
+        },
+        {
+            "source": "HIROYUKI MIKAMI[WAIT_A_SECOND] ",
+            "target": "HIROYUKI MIKAMI[WAIT_A_SECOND] "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-SENIOR PRODUCER-\u0007",
+            "target": "\u0001\u000f-SENIOR PRODUCER-\u0007"
+        },
+        {
+            "source": "KUNJI KATSUKI",
+            "target": "KUNJI KATSUKI"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": "\u0001\u000f-EXECUTIVE PRODUCER-\u0007[WAIT_A_SECOND]MICHIHIRO ISHIZUKA",
+            "target": "\u0001\u000f-EXECUTIVE PRODUCER-\u0007[WAIT_A_SECOND]MICHIHIRO ISHIZUKA"
+        },
+        {
+            "source": "MICHIHIRO ISHIZUKA",
+            "target": "MICHIHIRO ISHIZUKA"
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        },
+        {
+            "source": " ",
+            "target": " "
+        }
+    ]
+}

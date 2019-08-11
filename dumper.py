@@ -12,8 +12,8 @@ class Dumper(object):
 
     offsets = []
     strings = {
-        'sourceLang'    : 'en',
-        'targetLang'    : 'de',
+        'sourceLang'    : 'jp',
+        'targetLang'    : 'pt-br',
         'texts'         : [],
     }
 

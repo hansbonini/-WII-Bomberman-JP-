@@ -1,26 +1,102 @@
-[
-    "Ｓ＋",
-    "Ｓ",
-    "Ｓ−",
-    "Ａ＋",
-    "Ａ",
-    "Ａ−",
-    "Ｂ＋",
-    "Ｂ",
-    "Ｂ−",
-    "Ｃ＋",
-    "Ｃ",
-    "Ｃ−",
-    "Ｄ",
-    "Ｅ",
-    "Ｆ",
-    "Ｆ−",
-    "ボンバーレート",
-    "ランク",
-    "ランキング",
-    "クラス",
-    "じゅんい",
-    "ニックネーム",
-    "かち",
-    "まけ"
-]
+{
+    "sourceLang": "jp",
+    "targetLang": "pt-br",
+    "texts": [
+        {
+            "source": "Ｓ＋",
+            "target": "Ｓ＋"
+        },
+        {
+            "source": "Ｓ",
+            "target": "Ｓ"
+        },
+        {
+            "source": "Ｓ−",
+            "target": "Ｓ−"
+        },
+        {
+            "source": "Ａ＋",
+            "target": "Ａ＋"
+        },
+        {
+            "source": "Ａ",
+            "target": "Ａ"
+        },
+        {
+            "source": "Ａ−",
+            "target": "Ａ−"
+        },
+        {
+            "source": "Ｂ＋",
+            "target": "Ｂ＋"
+        },
+        {
+            "source": "Ｂ",
+            "target": "Ｂ"
+        },
+        {
+            "source": "Ｂ−",
+            "target": "Ｂ−"
+        },
+        {
+            "source": "Ｃ＋",
+            "target": "Ｃ＋"
+        },
+        {
+            "source": "Ｃ",
+            "target": "Ｃ"
+        },
+        {
+            "source": "Ｃ−",
+            "target": "Ｃ−"
+        },
+        {
+            "source": "Ｄ",
+            "target": "Ｄ"
+        },
+        {
+            "source": "Ｅ",
+            "target": "Ｅ"
+        },
+        {
+            "source": "Ｆ",
+            "target": "Ｆ"
+        },
+        {
+            "source": "Ｆ−",
+            "target": "Ｆ−"
+        },
+        {
+            "source": "ボンバーレート",
+            "target": "ボンバーレート"
+        },
+        {
+            "source": "ランク",
+            "target": "ランク"
+        },
+        {
+            "source": "ランキング",
+            "target": "ランキング"
+        },
+        {
+            "source": "クラス",
+            "target": "クラス"
+        },
+        {
+            "source": "じゅんい",
+            "target": "じゅんい"
+        },
+        {
+            "source": "ニックネーム",
+            "target": "ニックネーム"
+        },
+        {
+            "source": "かち",
+            "target": "かち"
+        },
+        {
+            "source": "まけ",
+            "target": "まけ"
+        }
+    ]
+}

@@ -1,4 +1,14 @@
-[
-    "Ｗｉｉリモコンをよこにもってね！",
-    "Online Interactions Not Rated by the ESRB"
-]
+{
+    "sourceLang": "jp",
+    "targetLang": "pt-br",
+    "texts": [
+        {
+            "source": "GRAND0\u0003\u0001[つよし]MEDIO\u0003\u0001[つよし]\u0002\u0001PEQUENO\u0003\u0001\u0007\u0001",
+            "target": "GRAND0\u0003\u0001[つよし]MEDIO\u0003\u0001[つよし]\u0002\u0001PEQUENO\u0003\u0001\u0007\u0001"
+        },
+        {
+            "source": "Online Interactions Not Rated by the ESRB",
+            "target": "Online Interactions Not Rated by the ESRB"
+        }
+    ]
+}
