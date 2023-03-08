@@ -360,15 +360,15 @@
         },
         {
             "source": "やめる",
-            "target": "やめる"
+            "target": "Sair"
         },
         {
             "source": "さいせってい",
-            "target": "さいせってい"
+            "target": "Reconfigurar"
         },
         {
             "source": "もういちど",
-            "target": "もういちど"
+            "target": "Jogar de novo"
         },
         {
             "source": "あなたいがいのプレイヤーがいなくなった\nので、バトルをちゅうだんしました。[READ_MORE]",
@@ -384,15 +384,15 @@
         },
         {
             "source": "たいせんメンバーがぬけてバトルを\nつづけられなくなったので、バトルを\nしゅうりょうします。[READ_MORE]",
-            "target": "たいせんメンバーがぬけてバトルを\nつづけられなくなったので、バトルを\nしゅうりょうします。[READ_MORE]"
+            "target": "Não é possível continuar,\npois os oponentes saíram.\nA batalha será encerrada. [READ_MORE]"
         },
         {
             "source": "バトルルームをさくせいしたあなたが\nやめてしまうとバトルがしゅうりょうして\nしまいますが、ほんとうにバトルを\nしゅうりょうしますか？",
-            "target": "バトルルームをさくせいしたあなたが\nやめてしまうとバトルがしゅうりょうして\nしまいますが、ほんとうにバトルを\nしゅうりょうしますか？"
+            "target": "Como criador da sala,\na batalha se encerrará\nse você sair. Deseja\nrealmente encerrar?"
         },
         {
             "source": "バトルのとちゅうですが、ほんとうに\nバトルをしゅうりょうしますか？",
-            "target": "バトルのとちゅうですが、ほんとうに\nバトルをしゅうりょうしますか？"
+            "target": "Deseja mesmo encerrar\nno meio da batalha?"
         },
         {
             "source": "たいせんメンバーがいなくなりました。\n　\u0006\u0002 \u0006\b\n　\u0006\u0003 \u0006\t\n　\u0006\u0004 \u0006\n\n　\u0006\u0005 \u0006[READ_MORE]\n　\u0006\u0006 \u0006\f\n　\u0006\u0007 \u0006\r",
