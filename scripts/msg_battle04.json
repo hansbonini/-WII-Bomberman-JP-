@@ -4,91 +4,91 @@
     "texts": [
         {
             "source": "なまえ",
-            "target": "なまえ"
+            "target": "Nome"
         },
         {
             "source": "じゅんい",
-            "target": "じゅんい"
+            "target": "Posição"
         },
         {
             "source": "スコア",
-            "target": "スコア"
+            "target": "Pontuação"
         },
         {
             "source": "ごうけい",
-            "target": "ごうけい"
+            "target": "Soma Total"
         },
         {
             "source": "１い",
-            "target": "１い"
+            "target": "1º"
         },
         {
             "source": "２い",
-            "target": "２い"
+            "target": "2º"
         },
         {
             "source": "３い",
-            "target": "３い"
+            "target": "3º"
         },
         {
             "source": "４い",
-            "target": "４い"
+            "target": "4º"
         },
         {
             "source": "５い",
-            "target": "５い"
+            "target": "5º"
         },
         {
             "source": "６い",
-            "target": "６い"
+            "target": "6º"
         },
         {
             "source": "７い",
-            "target": "７い"
+            "target": "7º"
         },
         {
             "source": "８い",
-            "target": "８い"
+            "target": "8º"
         },
         {
             "source": "１Ｐスコア",
-            "target": "１Ｐスコア"
+            "target": "Pontos P1"
         },
         {
             "source": "２Ｐスコア",
-            "target": "２Ｐスコア"
+            "target": "Pontos P2"
         },
         {
             "source": "３Ｐスコア",
-            "target": "３Ｐスコア"
+            "target": "Pontos P3"
         },
         {
             "source": "４Ｐスコア",
-            "target": "４Ｐスコア"
+            "target": "Pontos P4"
         },
         {
             "source": "５Ｐスコア",
-            "target": "５Ｐスコア"
+            "target": "Pontos P5"
         },
         {
             "source": "６Ｐスコア",
-            "target": "６Ｐスコア"
+            "target": "Pontos P6"
         },
         {
             "source": "７Ｐスコア",
-            "target": "７Ｐスコア"
+            "target": "Pontos P7"
         },
         {
             "source": "８Ｐスコア",
-            "target": "８Ｐスコア"
+            "target": "Pontos P8"
         },
         {
             "source": "ボンバーレート",
-            "target": "ボンバーレート"
+            "target": "Taxa de Bombardeio"
         },
         {
             "source": "トロフィー",
-            "target": "トロフィー"
+            "target": "Troféu"
         },
         {
             "source": "１しょうでゆうしょう",
@@ -108,11 +108,11 @@
         },
         {
             "source": "スコア\u0011[WAIT_A_SECOND]トータル",
-            "target": "スコア\u0011[WAIT_A_SECOND]トータル"
+            "target": "Pontuação \u0011[WAIT_A_SECOND]Total"
         },
         {
             "source": "トータル",
-            "target": "トータル"
+            "target": "Total"
         },
         {
             "source": "\u0006\u0002\u0006\u0003",
@@ -120,11 +120,11 @@
         },
         {
             "source": "しょうりプレイヤー",
-            "target": "しょうりプレイヤー"
+            "target": "Jogador Vencedor"
         },
         {
             "source": "さいごまでのこった",
-            "target": "さいごまでのこった"
+            "target": "Sobrou até o fim"
         },
         {
             "source": "アウト１い",
@@ -160,27 +160,27 @@
         },
         {
             "source": "だれかをたおした",
-            "target": "だれかをたおした"
+            "target": "Derrotou alguém"
         },
         {
             "source": "だれかにたおされた",
-            "target": "だれかにたおされた"
+            "target": "Derrotado por alguém"
         },
         {
             "source": "じばく",
-            "target": "じばく"
+            "target": "Auto-destruição"
         },
         {
             "source": "セットしたボムが０コ",
-            "target": "セットしたボムが０コ"
+            "target": "Não usou nenhuma bomba"
         },
         {
             "source": "セットしたボムが１００コいじょう",
-            "target": "セットしたボムが１００コいじょう"
+            "target": "Usou mais de 100 bombas"
         },
         {
             "source": "セットしたボムが２００コいじょう",
-            "target": "セットしたボムが２００コいじょう"
+            "target": "Usou mais de 200 bombas"
         },
         {
             "source": "いどうブロックすうが０",
@@ -360,15 +360,15 @@
         },
         {
             "source": "やめる",
-            "target": "やめる"
+            "target": "Sair"
         },
         {
             "source": "さいせってい",
-            "target": "さいせってい"
+            "target": "Reconfigurar"
         },
         {
             "source": "もういちど",
-            "target": "もういちど"
+            "target": "Jogar de novo"
         },
         {
             "source": "あなたいがいのプレイヤーがいなくなった\nので、バトルをちゅうだんしました。[READ_MORE]",
@@ -384,15 +384,15 @@
         },
         {
             "source": "たいせんメンバーがぬけてバトルを\nつづけられなくなったので、バトルを\nしゅうりょうします。[READ_MORE]",
-            "target": "たいせんメンバーがぬけてバトルを\nつづけられなくなったので、バトルを\nしゅうりょうします。[READ_MORE]"
+            "target": "Não é possível continuar,\npois os oponentes saíram.\nA batalha será encerrada. [READ_MORE]"
         },
         {
             "source": "バトルルームをさくせいしたあなたが\nやめてしまうとバトルがしゅうりょうして\nしまいますが、ほんとうにバトルを\nしゅうりょうしますか？",
-            "target": "バトルルームをさくせいしたあなたが\nやめてしまうとバトルがしゅうりょうして\nしまいますが、ほんとうにバトルを\nしゅうりょうしますか？"
+            "target": "Como criador da sala,\na batalha se encerrará\nse você sair. Deseja\nrealmente encerrar?"
         },
         {
             "source": "バトルのとちゅうですが、ほんとうに\nバトルをしゅうりょうしますか？",
-            "target": "バトルのとちゅうですが、ほんとうに\nバトルをしゅうりょうしますか？"
+            "target": "Deseja mesmo encerrar\nno meio da batalha?"
         },
         {
             "source": "たいせんメンバーがいなくなりました。\n　\u0006\u0002 \u0006\b\n　\u0006\u0003 \u0006\t\n　\u0006\u0004 \u0006\n\n　\u0006\u0005 \u0006[READ_MORE]\n　\u0006\u0006 \u0006\f\n　\u0006\u0007 \u0006\r",
